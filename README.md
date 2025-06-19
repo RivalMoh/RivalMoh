@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RivalMoh
-- 👀 I’m interested in Machine Learning, Data Analyst, Deep Learning, AI
-- 🌱 I’m currently learning Machine Learning, computer vision, and Data Analysis
+- 👀 I’m interested in Machine Learning, Data Analyst, Deep Learning, AI, and Data Scientist
+- 🌱 I’m currently learning Machine Learning, Computer Vision, Data Science, and Data Analysis
 - 📫 How to reach me --> email : vallllwhy@students.unnes.ac.id, ig : rival_wahyudi.m
 
 <!---
