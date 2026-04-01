@@ -6,7 +6,7 @@ I'm an Information Systems student passionate about bridging the gap between raw
 
 ## 🚀 What I'm Working On
 
-- 🎓 **Researching:** Currently developing a Bachelor's thesis on **Explainable AI (XAI)**, specifically creating a meta-explanation framework synthesizing SHAP outputs to improve student dropout predictions.
+- 🎓 **Researching:** Currently developing a Bachelor's thesis on **Explainable AI (XAI)**
 - 💻 **Developing:** Building a personal portfolio showcasing my data science projects using **Next.js, TypeScript, Tailwind CSS, and Sanity**.
 - 📊 **Analyzing:** Wrapping up an internship project building a sentiment analysis platform for UNNES, designed to crawl and process social media feedback.
 - 🎯 **Actively Seeking:** Internships and opportunities in Data Science and Machine Learning. 
