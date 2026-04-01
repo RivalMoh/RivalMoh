@@ -1,4 +1,4 @@
-# Hi there, I'm [Rival Moh. Wahyudi] 👋
+# Hi there, I'm Rival Moh. Wahyudi 👋
 
 ### Information Systems Student | Data Science & AI Enthusiast
 
