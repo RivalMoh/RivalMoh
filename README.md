@@ -11,13 +11,6 @@ I'm an Information Systems student passionate about bridging the gap between raw
 - 📊 **Analyzing:** Wrapping up an internship project building a sentiment analysis platform for UNNES, designed to crawl and process social media feedback.
 - 🎯 **Actively Seeking:** Internships and opportunities in Data Science and Machine Learning. 
 
-## 🛠️ Featured Projects & Experience
-
-* **SuaraWarga (Disaster Reporting MVP):** Developed an application for reporting disasters via voice, integrating **Gemini 1.5 Flash** for AI-driven transcription/analysis and GPS for spatial mapping.
-* **Automated ETL Pipeline:** Built a robust system for processing, cleansing, and normalizing large CSV/XLSX datasets, effectively handling duplicates and complex merges.
-* **Murung Raya Job Portal:** Contributed to the foundational system design (ERD/DFD) and development of a regional job portal.
-* **GIS & Spatial Data:** Experience working with shapefiles (SHP) to integrate geographic information systems into web environments.
-
 ## 💻 Tech Stack & Interests
 
 * **Data & AI:** Machine Learning, Explainable AI (XAI), ETL Pipelines, NLP (IndoBERT, LLMs), Predictive Modeling.
